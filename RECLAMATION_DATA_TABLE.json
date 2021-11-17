@@ -1,0 +1,4 @@
+{"results":[{"columns":[{"name":"NOM_ROUTE","type":"VARCHAR2"},{"name":"TYPE_PANNE","type":"VARCHAR2"},{"name":"DATE_RECLAMAT","type":"VARCHAR2"},{"name":"NATURE","type":"VARCHAR2"},{"name":"ID","type":"VARCHAR2"},{"name":"ID_COMP","type":"VARCHAR2"}],"items":
+[
+{"nom_route":"Ghazela","type_panne":"potraux electrique","date_reclamat":"sam. d??c. 19 2020","id":"9","id_comp":"120"}
+]}

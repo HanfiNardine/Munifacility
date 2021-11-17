@@ -1,0 +1,7 @@
+{"results":[{"columns":[{"name":"ID_ZONEVERTE","type":"NUMBER"},{"name":"LIBELLE","type":"VARCHAR2"},{"name":"ADRESSE","type":"VARCHAR2"},{"name":"AIRE","type":"VARCHAR2"}],"items":
+[
+{"id_zoneverte":616,"libelle":"uuu","adresse":"Rue Kaboul","aire":"500"}
+,{"id_zoneverte":560,"libelle":"juju","adresse":"Amilcar","aire":"156"}
+,{"id_zoneverte":570,"libelle":"lkhjk","adresse":"Rue Kaboul","aire":"123"}
+,{"id_zoneverte":593,"libelle":"kok","adresse":"Amilcar","aire":"255"}
+]}

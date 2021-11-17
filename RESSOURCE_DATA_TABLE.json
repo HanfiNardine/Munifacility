@@ -1,0 +1,4 @@
+{"results":[{"columns":[{"name":"TYPE_ROUTE","type":"VARCHAR2"},{"name":"ETAT_COMPOSANT","type":"VARCHAR2"},{"name":"NOM_ROUTE","type":"VARCHAR2"},{"name":"POSX","type":"NUMBER"},{"name":"POSY","type":"NUMBER"},{"name":"ID","type":"VARCHAR2"}],"items":
+[
+{"id":"120"}
+]}

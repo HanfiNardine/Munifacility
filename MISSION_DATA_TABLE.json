@@ -1,0 +1,3 @@
+{"results":[{"columns":[{"name":"ID_MISSION","type":"VARCHAR2"},{"name":"CIN_AGENT","type":"VARCHAR2"},{"name":"HORAIRE_DEPART","type":"VARCHAR2"},{"name":"EMPLACEMENT","type":"VARCHAR2"},{"name":"TYPE","type":"VARCHAR2"},{"name":"DATE_EXECUT","type":"DATE"}],"items":
+[
+]}

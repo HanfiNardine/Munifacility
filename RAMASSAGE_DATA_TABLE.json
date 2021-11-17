@@ -1,0 +1,9 @@
+{"results":[{"columns":[{"name":"ID_RAMASSAGE","type":"NUMBER"},{"name":"MATRICULE","type":"VARCHAR2"},{"name":"DATE_RAMASSAGE","type":"VARCHAR2"},{"name":"NOMBRE_POUBELLE","type":"VARCHAR2"},{"name":"DUREE","type":"VARCHAR2"},{"name":"NOM_CARTIER","type":"VARCHAR2"},{"name":"HEURE_DEBUT","type":"VARCHAR2"}],"items":
+[
+{"id_ramassage":710,"matricule":"111TN564","date_ramassage":"01\/12\/2019","nombre_poubelle":"14","duree":"01:50","nom_cartier":"EL Menzah 1 ","heure_debut":"12:00:00"}
+,{"id_ramassage":754,"matricule":"111TN120","date_ramassage":"01\/12\/2019","nombre_poubelle":"5","duree":"01:51","nom_cartier":"EL Menzah 1 ","heure_debut":"12:00:00"}
+,{"id_ramassage":798,"matricule":"120TN2000","date_ramassage":"01\/01\/2016","nombre_poubelle":"7","duree":"01:10","nom_cartier":"Ennasr 2","heure_debut":"01:00:00"}
+,{"id_ramassage":666,"matricule":"120TN200","date_ramassage":"01\/01\/2018","nombre_poubelle":"10","duree":"00:50","nom_cartier":"EL Menzah 6","heure_debut":"12:00:00"}
+,{"id_ramassage":842,"matricule":"122TN656","date_ramassage":"11\/01\/2020","nombre_poubelle":"3","duree":"00:10","nom_cartier":"EL Menzah 1 ","heure_debut":"01:00:00"}
+,{"id_ramassage":886,"matricule":"152TN1000","date_ramassage":"21\/01\/2019","nombre_poubelle":"7","duree":"01:00","nom_cartier":"EL Menzah 5 ","heure_debut":"15:00:00"}
+]}
