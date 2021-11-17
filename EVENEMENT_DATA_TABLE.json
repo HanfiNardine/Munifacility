@@ -1,0 +1,5 @@
+{"results":[{"columns":[{"name":"ID_EVENT","type":"VARCHAR2"},{"name":"NOM_EVENT","type":"VARCHAR2"},{"name":"TYPE_EVENT","type":"VARCHAR2"},{"name":"DATE_EVENT","type":"DATE"},{"name":"HOR_EVENT","type":"VARCHAR2"},{"name":"EMPL_EVENT","type":"VARCHAR2"},{"name":"ETAT_EVENT","type":"VARCHAR2"}],"items":
+[
+{"id_event":"111","nom_event":"jkh","type_event":"ho","date_event":"03\/01\/00","hor_event":"11","empl_event":"iujp","etat_event":"pass??"}
+,{"id_event":"222","nom_event":"jkh","type_event":"ho","date_event":"03\/01\/20","hor_event":"11","empl_event":"iujp","etat_event":"en attente"}
+]}

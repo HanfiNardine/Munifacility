@@ -1,0 +1,3 @@
+{"results":[{"columns":[{"name":"ID_CIT","type":"VARCHAR2"},{"name":"NOM_CIT","type":"VARCHAR2"},{"name":"PRENOM_CIT","type":"VARCHAR2"},{"name":"SEXE_CIT","type":"VARCHAR2"},{"name":"DATE_CIT","type":"DATE"},{"name":"LIEU_CIT","type":"VARCHAR2"},{"name":"MAIL_CIT","type":"VARCHAR2"},{"name":"TEL_CIT","type":"VARCHAR2"}],"items":
+[
+]}

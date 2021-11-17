@@ -1,0 +1,8 @@
+{"results":[{"columns":[{"name":"CIN","type":"VARCHAR2"},{"name":"NOM","type":"VARCHAR2"},{"name":"PRENOM","type":"VARCHAR2"},{"name":"ETAT","type":"VARCHAR2"},{"name":"TYPE","type":"VARCHAR2"},{"name":"MAIL","type":"VARCHAR2"}],"items":
+[
+{"cin":"07245656","nom":"hamdi","prenom":"hedi","etat":"1\n","type":"yy"}
+,{"cin":"06552231","nom":"sss\n","prenom":"aa","etat":"1","type":"uu"}
+,{"cin":"06141417","nom":"jh","prenom":"jkh","etat":"1","type":"11"}
+,{"cin":"01010101","nom":"po","prenom":"dd","etat":"0","type":"jj"}
+,{"cin":"07333333","nom":"gd","prenom":"dfg","etat":"0","type":"ht"}
+]}

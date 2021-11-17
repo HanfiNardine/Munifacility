@@ -1,0 +1,106 @@
+<RCC>
+    <qresource prefix="/">
+        <file>champs.png</file>
+        <file>Menu.png</file>
+        <file>background.jpg</file>
+        <file>close.png</file>
+        <file>L.jpg</file>
+        <file>List.jpg</file>
+        <file>LL.jpg</file>
+        <file>back2.jpg</file>
+        <file>Annuler2.png</file>
+        <file>Ajouter.png</file>
+        <file>Annuler.png</file>
+        <file>Enregistrer.png</file>
+        <file>envi.png</file>
+        <file>Menu_Principal.png</file>
+        <file>Marche.png</file>
+        <file>Maintenance.png</file>
+        <file>Ress.png</file>
+        <file>Res.png</file>
+        <file>MP.png</file>
+        <file>delete.png</file>
+        <file>Enregistrer_utilisateur.png</file>
+        <file>MP1.png</file>
+        <file>compte.jpg</file>
+        <file>view.png</file>
+        <file>employe.png</file>
+        <file>compte.png</file>
+        <file>login.png</file>
+        <file>ch_ZV.png</file>
+        <file>ZV_Pressed.png</file>
+        <file>b3.jpg</file>
+        <file>Zone_Verte.png</file>
+        <file>Ram_Pressed.png</file>
+        <file>Ramassage.png</file>
+        <file>notif.png</file>
+        <file>Ajouter_ZV.png</file>
+        <file>Annuler_ZV.png</file>
+        <file>b1.png</file>
+        <file>municipal.png</file>
+        <file>Save_ZV.png</file>
+        <file>Ajouter_P.png</file>
+        <file>Annuler_P.png</file>
+        <file>edit_ZV.png</file>
+        <file>mailing.png</file>
+        <file>Menu Principal.png</file>
+        <file>promouvoir.png</file>
+        <file>recherche.png</file>
+        <file>statistique.png</file>
+        <file>communication.png</file>
+        <file>assest/Ajouter Composant.png</file>
+        <file>assest/Ajouter Composant_hover.png</file>
+        <file>assest/Ajouter Reclamation.png</file>
+        <file>assest/Ajouter Reclamation_hover.png</file>
+        <file>assest/ANNULER.png</file>
+        <file>assest/ANNULER_hover.png</file>
+        <file>LogoStats.png</file>
+        <file>Munifacility.png</file>
+        <file>assest/Maintenance.png</file>
+        <file>assest/Maintenance_hover.png</file>
+        <file>assest/Reclamation.png</file>
+        <file>assest/Reclamation_hover.png</file>
+        <file>assest/Ressource Materiels.png</file>
+        <file>assest/Ressource Materiels_hover.png</file>
+        <file>Ajouter Composant.png</file>
+        <file>Ajouter Composant_hover.png</file>
+        <file>Ajouter Reclamation.png</file>
+        <file>Ajouter Reclamation_hover.png</file>
+        <file>ANNULER_hover.png</file>
+        <file>Maintenance_hover.png</file>
+        <file>Sauvgarder.png</file>
+        <file>Sauvgarder_hover.png</file>
+        <file>Statistique_hover.png</file>
+        <file>MaintenanceR.png</file>
+        <file>MaintenanceR_hover.png</file>
+        <file>StatistiqueR.png</file>
+        <file>ANNULER_R.png</file>
+        <file>Ordonner.png</file>
+        <file>Ordonner_hover.png</file>
+        <file>Maintenance_grpBox.png</file>
+        <file>Login_Init.png</file>
+        <file>Retour.png</file>
+        <file>Retour_hover.png</file>
+        <file>M.Communication.png</file>
+        <file>M.Maintenance.png</file>
+        <file>M.Environnement.png</file>
+        <file>M.RessourcesH.png</file>
+        <file>EnregistrerR_hover.png</file>
+        <file>Enregistrer_ZV_hover.png</file>
+        <file>AnnulerZV_hover.png</file>
+        <file>AnuulerRamas_hover.png</file>
+        <file>assest/imprimer.png</file>
+        <file>imprimer.png</file>
+        <file>tri.jpg</file>
+        <file>statem.jpg</file>
+        <file>Marche_m.png</file>
+        <file>Reclamation.png</file>
+        <file>Reclamation_hover.png</file>
+        <file>Ressource Materiels.png</file>
+        <file>Ressource Materiels_hover.png</file>
+        <file>Disabled_Envi.png</file>
+        <file>G.Marchand.png</file>
+        <file>G.Mission.png</file>
+        <file>Capt_Pression.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,4 @@
+{"results":[{"columns":[{"name":"IDENTIFIANT","type":"VARCHAR2"},{"name":"MOT_DE_PASSE","type":"VARCHAR2"},{"name":"TYPE_AUTHENT","type":"VARCHAR2"},{"name":"CIN","type":"VARCHAR2"}],"items":
+[
+{"identifiant":"1000","mot_de_passe":"120","type_authent":"aa","cin":"07245656"}
+]}
